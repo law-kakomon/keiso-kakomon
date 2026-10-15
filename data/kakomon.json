@@ -1,0 +1,2517 @@
+{
+ "generated": true,
+ "sources": {
+  "同志社": "https://law-school.doshisha.ac.jp/entrance_ex/question/",
+  "立命館": "https://www.ritsumei.ac.jp/lawschool/admission/past.html/",
+  "慶應": "https://www.ls.keio.ac.jp/nyushi/examination.html",
+  "関学": "https://www.kwansei.ac.jp/lawschool/admissions/kakomon/",
+  "中央": "https://www.chuo-u.ac.jp/academics/pro_graduateschool/law/orientation/selection/past/"
+ },
+ "taxonomy": [
+  {
+   "name": "捜査",
+   "count": 57,
+   "subs": [
+    {
+     "name": "捜査の原則・任意捜査",
+     "key": "捜査/捜査の原則・任意捜査",
+     "count": 18
+    },
+    {
+     "name": "逮捕・勾留",
+     "key": "捜査/逮捕・勾留",
+     "count": 13
+    },
+    {
+     "name": "捜索・押収・検証",
+     "key": "捜査/捜索・押収・検証",
+     "count": 17
+    },
+    {
+     "name": "取調べ・供述の採取",
+     "key": "捜査/取調べ・供述の採取",
+     "count": 4
+    },
+    {
+     "name": "弁護人依頼権・接見交通",
+     "key": "捜査/弁護人依頼権・接見交通",
+     "count": 5
+    }
+   ]
+  },
+  {
+   "name": "公訴",
+   "count": 12,
+   "subs": [
+    {
+     "name": "公訴提起・訴追裁量",
+     "key": "公訴/公訴提起・訴追裁量",
+     "count": 0
+    },
+    {
+     "name": "訴因と訴因変更",
+     "key": "公訴/訴因と訴因変更",
+     "count": 11
+    },
+    {
+     "name": "訴訟条件・公訴時効",
+     "key": "公訴/訴訟条件・公訴時効",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "公判",
+   "count": 3,
+   "subs": [
+    {
+     "name": "公判手続・訴訟指揮",
+     "key": "公判/公判手続・訴訟指揮",
+     "count": 3
+    },
+    {
+     "name": "公判前整理手続・証拠開示",
+     "key": "公判/公判前整理手続・証拠開示",
+     "count": 0
+    },
+    {
+     "name": "証人尋問・被告人質問",
+     "key": "公判/証人尋問・被告人質問",
+     "count": 0
+    }
+   ]
+  },
+  {
+   "name": "証拠",
+   "count": 30,
+   "subs": [
+    {
+     "name": "証拠裁判主義・自由心証",
+     "key": "証拠/証拠裁判主義・自由心証",
+     "count": 2
+    },
+    {
+     "name": "関連性・科学的証拠",
+     "key": "証拠/関連性・科学的証拠",
+     "count": 1
+    },
+    {
+     "name": "違法収集証拠の排除",
+     "key": "証拠/違法収集証拠の排除",
+     "count": 6
+    },
+    {
+     "name": "自白法則・補強法則",
+     "key": "証拠/自白法則・補強法則",
+     "count": 8
+    },
+    {
+     "name": "伝聞法則とその例外",
+     "key": "証拠/伝聞法則とその例外",
+     "count": 13
+    }
+   ]
+  },
+  {
+   "name": "裁判・上訴",
+   "count": 3,
+   "subs": [
+    {
+     "name": "判決・一事不再理",
+     "key": "裁判・上訴/判決・一事不再理",
+     "count": 0
+    },
+    {
+     "name": "控訴・上告",
+     "key": "裁判・上訴/控訴・上告",
+     "count": 2
+    },
+    {
+     "name": "抗告・準抗告",
+     "key": "裁判・上訴/抗告・準抗告",
+     "count": 1
+    },
+    {
+     "name": "再審",
+     "key": "裁判・上訴/再審",
+     "count": 0
+    }
+   ]
+  },
+  {
+   "name": "そのほか",
+   "count": 0,
+   "subs": [
+    {
+     "name": "裁判所・管轄・除斥",
+     "key": "そのほか/裁判所・管轄・除斥",
+     "count": 0
+    },
+    {
+     "name": "訴訟行為・書類・費用",
+     "key": "そのほか/訴訟行為・書類・費用",
+     "count": 0
+    },
+    {
+     "name": "略式・即決・協議合意",
+     "key": "そのほか/略式・即決・協議合意",
+     "count": 0
+    },
+    {
+     "name": "裁判の執行",
+     "key": "そのほか/裁判の執行",
+     "count": 0
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "dos-2027-zenki",
+   "univ": "同志社",
+   "year": 2027,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2027_zenki_mondai_keisoho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2027_zenki_kaisetsu_keisoho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2027_zenki_kaitou_keisoho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/取調べ・供述の採取",
+    "捜査/捜査の原則・任意捜査",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "任意取調べ（在宅被疑者の宿泊を伴う長時間取調べ）の限界",
+    "被疑者取調べの根拠（198条1項）",
+    "強制処分の意義（197条1項但書）",
+    "328条で許容される証拠＝弾劾証拠",
+    "自己矛盾供述の立証方法"
+   ],
+   "articles": [
+    197,
+    198,
+    321,
+    322,
+    324,
+    328
+   ],
+   "hanrei": [
+    "最決昭和59年2月29日",
+    "最判平成18年11月7日",
+    "最決昭和51年3月16日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2026-zenki",
+   "univ": "同志社",
+   "year": 2026,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2026_zenki_mondai_keisoho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2026_zenki_kaisetsu_keisoho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2026_zenki_kaitou_keisoho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "捜査/捜査の原則・任意捜査",
+    "証拠/自白法則・補強法則"
+   ],
+   "topics": [
+    "現行犯逮捕の要件（212条1項・213条）",
+    "準現行犯逮捕（212条2項）",
+    "おとり捜査の適法性",
+    "約束による自白の証拠能力",
+    "自白法則の根拠（憲法38条2項・319条1項）"
+   ],
+   "articles": [
+    197,
+    212,
+    213,
+    319
+   ],
+   "hanrei": [
+    "最決平成16年7月12日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2026-koki",
+   "univ": "同志社",
+   "year": 2026,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2026koki_mondai_keijisosho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2026koki_kaisetsu_keijisosho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2026koki_kaitou_keijisosho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "公訴/訴因と訴因変更",
+    "捜査/捜査の原則・任意捜査",
+    "裁判・上訴/控訴・上告"
+   ],
+   "topics": [
+    "訴因対象説と訴因の拘束力",
+    "訴因変更の要否の基準（312条1項）",
+    "事実記載説",
+    "訴因逸脱認定と絶対的控訴理由（378条3号）",
+    "職務質問に伴う所持品検査の限界（警職法2条1項）"
+   ],
+   "articles": [
+    312,
+    378,
+    379
+   ],
+   "hanrei": [
+    "最判昭和28年5月8日",
+    "最決平成24年2月29日",
+    "最判昭和53年6月20日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2026-honshi",
+   "univ": "慶應",
+   "year": 2026,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/b10de710644fe51a59cb8e0fa804433e4feeeb759d5a06d92665b526d67a4f00",
+   "kaisetsu": "https://www.keio.ac.jp/files/5d2bc1b97adaa723e9762dac8da067c5170963dfb6e9f0bcc0d37f64cc7dd669",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（商法・民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "証拠/違法収集証拠の排除"
+   ],
+   "topics": [
+    "行政警察活動と捜査の区別",
+    "職務質問に伴う所持品検査（警職法2条1項）",
+    "違法収集証拠排除法則（令状主義の精神の没却・将来の違法捜査の抑制）",
+    "先行手続の違法と証拠能力"
+   ],
+   "articles": [
+    111,
+    197,
+    218,
+    220,
+    222
+   ],
+   "hanrei": [
+    "最判昭和53年6月20日",
+    "最判昭和53年9月7日",
+    "最判昭和61年4月25日",
+    "最決平成7年5月30日",
+    "最大判昭和36年6月7日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "chu-2026-ronjutsu",
+   "univ": "中央",
+   "year": 2026,
+   "term": "論述式",
+   "course": "法学既修者コース",
+   "mondai": "https://www.chuo-u.ac.jp/uploads/2026/03/academics_pro_graduateschool_law_orientation_selection_past_2026_06.pdf",
+   "kaisetsu": "https://www.chuo-u.ac.jp/uploads/2026/03/academics_pro_graduateschool_law_orientation_selection_past_2026_07.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題の意図",
+   "kaisetsuNote": "全科目まとめの「出題の意図及び評価の視点」。刑事訴訟法の節を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留"
+   ],
+   "topics": [
+    "準現行犯逮捕の要件（212条2項各号・「罪を行い終つてから間がない」）",
+    "時間的・場所的接着性",
+    "無令状逮捕が許される趣旨"
+   ],
+   "articles": [
+    212,
+    213
+   ],
+   "hanrei": [
+    "最決平成8年1月29日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2025-zenki",
+   "univ": "同志社",
+   "year": 2025,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2025zenki_mondai_keijisosho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2025zenki_kaisetsu_keijisosho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2025zenki_kaitou_keijisosho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "証拠/関連性・科学的証拠"
+   ],
+   "topics": [
+    "司法警察活動と行政警察活動の区別",
+    "職務質問に伴う有形力行使の限界（警職法2条1項）",
+    "職務質問付随行為説",
+    "同種前科事実による犯罪事実の立証（悪性格の立証）"
+   ],
+   "articles": [
+    197
+   ],
+   "hanrei": [
+    "高判昭和49年9月30日",
+    "最決平成15年5月26日",
+    "最判昭和53年6月20日",
+    "最決昭和51年3月16日",
+    "最判平成24年9月7日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2025-koki",
+   "univ": "同志社",
+   "year": 2025,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2025koki_mondai_keijisosho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2025koki_kaisetsu_keijisosho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2025koki_kaitou_keijisosho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/弁護人依頼権・接見交通",
+    "公訴/訴因と訴因変更"
+   ],
+   "topics": [
+    "接見交通権（39条1項）と憲法34条",
+    "接見指定の要件「捜査のため必要があるとき」（39条3項）",
+    "初回接見の重要性",
+    "訴因変更（312条）"
+   ],
+   "articles": [
+    39,
+    312
+   ],
+   "hanrei": [
+    "最大判平成11年3月24日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2025-honshi",
+   "univ": "慶應",
+   "year": 2025,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/c3801865e8db470438cff3cf8a83456659ef7f5534e64e841eafd34b92027073",
+   "kaisetsu": "https://www.keio.ac.jp/files/6b64898e14f858f6bb1bfacc2717e507b0d72fcdca68411eb3c2c49255b19b96",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（科目名の記載なし）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "伝聞法則（320条1項）",
+    "実況見分調書の証拠能力（321条3項）",
+    "立会人の指示説明",
+    "同意書面（326条1項）"
+   ],
+   "articles": [
+    320,
+    321,
+    326
+   ],
+   "hanrei": [
+    "最決平成27年2月2日",
+    "最判昭和35年9月8日",
+    "最決平成17年9月27日",
+    "最決昭和59年12月21日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "chu-2025-ronjutsu",
+   "univ": "中央",
+   "year": 2025,
+   "term": "論述式",
+   "course": "法学既修者コース",
+   "mondai": "https://www.chuo-u.ac.jp/uploads/2025/04/academics_pro_graduateschool_law_orientation_selection_past_2025_06.pdf",
+   "kaisetsu": "https://www.chuo-u.ac.jp/uploads/2025/04/academics_pro_graduateschool_law_orientation_selection_past_2025_07_20250414.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題の意図",
+   "kaisetsuNote": "全科目まとめの「出題の意図及び評価の視点」。刑事訴訟法の節を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証"
+   ],
+   "topics": [
+    "捜索差押許可状の事後呈示の適法性",
+    "捜索開始後に捜索場所へ搬入された物に対する捜索の可否"
+   ],
+   "articles": [],
+   "hanrei": [
+    "最決平成14年10月4日",
+    "最決平成19年2月8日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2024-zenki",
+   "univ": "同志社",
+   "year": 2024,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2024zenki_mondai_keisohou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2024zenki_kaisetsu_keisohou.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2024zenki_kaitou_keisohou.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "捜査/捜索・押収・検証",
+    "証拠/違法収集証拠の排除"
+   ],
+   "topics": [
+    "GPS捜査の適法性",
+    "強制処分の意義（197条1項但書）",
+    "強制処分法定主義",
+    "令状の事前呈示（222条1項・110条）",
+    "違法収集証拠排除法則の根拠と二つの要件"
+   ],
+   "articles": [
+    110,
+    197,
+    218,
+    222
+   ],
+   "hanrei": [
+    "最大判平成29年3月15日",
+    "最決昭和51年3月16日",
+    "高判平成28年7月21日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2024-koki",
+   "univ": "同志社",
+   "year": 2024,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2024koki_mondai_keijisosyo.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2024koki_kaisetsu_keijisosyo.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2024koki_kaitou_keijisosyoho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "証拠/自白法則・補強法則",
+    "証拠/証拠裁判主義・自由心証"
+   ],
+   "topics": [
+    "現行犯逮捕が無令状で許される根拠（憲法33条・213条）",
+    "「現に罪を行い終つた者」（212条1項）の要件",
+    "明白性の認定資料",
+    "自白の補強法則（319条2項3項）",
+    "補強の範囲と程度"
+   ],
+   "articles": [
+    212,
+    213,
+    318,
+    319
+   ],
+   "hanrei": [
+    "最決平成8年1月29日",
+    "最大判昭和23年7月29日",
+    "最大判昭和33年5月28日",
+    "最判昭和42年12月21日",
+    "最決昭和32年11月2日",
+    "大判昭和24年6月29日",
+    "地決昭和44年11月5日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2024-menjo",
+   "univ": "同志社",
+   "year": 2024,
+   "term": "履修免除",
+   "course": "履修免除試験",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2024exempt_mondai_keijisosyo.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2024_kaisetsu_keijisosyo.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2024exempt_kaitou_keijisosyo.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "公訴/訴因と訴因変更"
+   ],
+   "topics": [
+    "令状による差押えの要件",
+    "電磁的記録媒体の包括的差押えの適法性",
+    "被疑事実との関連性",
+    "訴因変更の可否と公訴事実の同一性",
+    "訴因の特定（識別機能・防御機能）"
+   ],
+   "articles": [
+    99,
+    107,
+    111,
+    219,
+    220,
+    222,
+    312
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kei-2024-honshi",
+   "univ": "慶應",
+   "year": 2024,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/cdaa2e98a653005a53e40d8d541da5074cf74d52cc4946cbe501ea58294c9264",
+   "kaisetsu": "https://www.keio.ac.jp/files/6e718879020f005c6743b1e52b30f0ed58f3b492a7c11d5440fb90b30f3ab6dc",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（商法・民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "公訴/訴因と訴因変更",
+    "公訴/訴訟条件・公訴時効",
+    "裁判・上訴/控訴・上告"
+   ],
+   "topics": [
+    "訴因変更の要否の判断基準",
+    "訴因の明示・特定（256条3項）",
+    "公訴事実の同一性と訴因変更の可否（312条1項）",
+    "訴因逸脱認定と控訴理由（378条3号）",
+    "公訴棄却・免訴（337条〜339条）"
+   ],
+   "articles": [
+    256,
+    312,
+    337,
+    338,
+    339,
+    378
+   ],
+   "hanrei": [
+    "最決平成13年4月11日",
+    "最大判昭和40年4月28日",
+    "最大判昭和37年11月28日",
+    "最決昭和33年3月27日",
+    "最判昭和29年5月14日",
+    "最決昭和53年3月6日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "chu-2024-ronjutsu",
+   "univ": "中央",
+   "year": 2024,
+   "term": "論述式",
+   "course": "法学既修者コース",
+   "mondai": "https://www.chuo-u.ac.jp/uploads/2024/05/academics_pro_graduateschool_law_orientation_selection_past_2024_06.pdf",
+   "kaisetsu": "https://www.chuo-u.ac.jp/uploads/2024/05/academics_pro_graduateschool_law_orientation_selection_past_2024_07.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題の意図",
+   "kaisetsuNote": "全科目まとめの「出題の意図及び評価の視点」。刑事訴訟法の節を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "公訴/訴因と訴因変更"
+   ],
+   "topics": [
+    "訴因変更の要否",
+    "訴因制度の趣旨",
+    "公訴事実と罪となるべき事実の変化"
+   ],
+   "articles": [],
+   "hanrei": [
+    "最決平成13年4月11日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2023-zenki",
+   "univ": "同志社",
+   "year": 2023,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2023_mondai_keijisosyo.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2023_kaisetsu_keijisosyo.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2023_kaitou_keijisosyoho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/取調べ・供述の採取",
+    "捜査/捜査の原則・任意捜査"
+   ],
+   "topics": [
+    "任意取調べ（徹夜・長時間の取調べ）の限界",
+    "在宅被疑者の取調べ（198条1項但書）",
+    "強制処分と任意処分の区別"
+   ],
+   "articles": [
+    197,
+    198
+   ],
+   "hanrei": [
+    "最決昭和59年2月29日",
+    "最決昭和51年3月16日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2023-koki",
+   "univ": "同志社",
+   "year": 2023,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2023koki_mondai_keijisosyo.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2023koki_kaisetsu_keijisosyo.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2023koki_kaitou_keijisosyoho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/取調べ・供述の採取",
+    "捜査/逮捕・勾留"
+   ],
+   "topics": [
+    "任意同行の適法性（198条1項）",
+    "強制処分と任意処分の区別の基準",
+    "逮捕手続の違法と勾留請求の却下",
+    "逮捕前置主義",
+    "勾留の理由（207条1項・60条1項）と勾留の必要（87条）"
+   ],
+   "articles": [
+    60,
+    87,
+    197,
+    198,
+    207
+   ],
+   "hanrei": [
+    "高判昭和54年8月14日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2023-menjo",
+   "univ": "同志社",
+   "year": 2023,
+   "term": "履修免除",
+   "course": "履修免除試験",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2023exempt_mondai_keijisosyo.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2023exempt_kaisetsu_keijisosyo.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2023exempt_kaitou_keijisosyo.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "公訴/訴因と訴因変更",
+    "公判/公判手続・訴訟指揮"
+   ],
+   "topics": [
+    "逮捕に伴う無令状捜索・差押えの趣旨（220条1項2号・3項）",
+    "「逮捕の現場」の意義",
+    "逮捕現場から移動した上での捜索の可否",
+    "訴因の意義・機能・特定（256条3項）",
+    "当事者主義的訴訟構造"
+   ],
+   "articles": [
+    99,
+    102,
+    220,
+    222,
+    256,
+    298,
+    304,
+    305,
+    307
+   ],
+   "hanrei": [
+    "最大判昭和37年11月28日",
+    "最決平成26年3月17日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2023-honshi",
+   "univ": "慶應",
+   "year": 2023,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/c29c9c76c18ef6686fb519748e73fd23e833b9179a9649d8fba91aaacf8d6052",
+   "kaisetsu": "https://www.keio.ac.jp/files/6b9b00553614c4dc9d67c89bda1a2471b9dc876e62c9aa3d112ffb6b8532c5e2",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（商法・民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "公訴/訴因と訴因変更",
+    "証拠/伝聞法則とその例外",
+    "公判/公判手続・訴訟指揮"
+   ],
+   "topics": [
+    "訴因の明示が求められる法的根拠（256条3項）とその趣旨",
+    "当事者主義的訴訟構造",
+    "伝聞証拠の意義（320条1項）と証人審問権（憲法37条2項）",
+    "伝聞例外（321条・324条・326条）"
+   ],
+   "articles": [
+    256,
+    296,
+    316,
+    320,
+    321,
+    324,
+    326,
+    378
+   ],
+   "hanrei": [
+    "最大判昭和37年11月28日",
+    "最大判昭和40年4月28日",
+    "最決平成13年4月11日",
+    "最決平成26年3月17日",
+    "最判昭和30年12月9日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2022-zenki",
+   "univ": "同志社",
+   "year": 2022,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2022_mondai_keijisosyo.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2022_kaisetsu_keijisosyo.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2022_kaitou_keijisosyoho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "証拠/自白法則・補強法則"
+   ],
+   "topics": [
+    "強制採尿の許容性",
+    "強制採尿令状による病院への強制連行の可否",
+    "令状の「必要な処分」（222条1項・111条）",
+    "自白法則の趣旨",
+    "偽計による自白の証拠能力"
+   ],
+   "articles": [
+    111,
+    222,
+    319
+   ],
+   "hanrei": [
+    "最決昭和55年10月23日",
+    "最決平成6年9月16日",
+    "最大判昭和45年11月25日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2022-koki",
+   "univ": "同志社",
+   "year": 2022,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "http://doshisha-law.kir.jp/stg/wp-content/uploads/2022/04/2022_mondai_keijisoshohou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2022_kaisetsu_keisohou2.pdf",
+   "kaitou": "http://doshisha-law.kir.jp/stg/wp-content/uploads/2022/04/2022_keisohout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "http",
+    "kaisetsu": null,
+    "kaitou": "http"
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/取調べ・供述の採取",
+    "証拠/違法収集証拠の排除"
+   ],
+   "topics": [
+    "任意同行の適法性（198条1項）",
+    "強制処分と任意処分の区別の基準",
+    "違法収集証拠排除法則の根拠と排除基準",
+    "先行手続の違法の承継（同一目的・直接利用関係）"
+   ],
+   "articles": [
+    197,
+    198,
+    218
+   ],
+   "hanrei": [
+    "最判昭和53年9月7日",
+    "最判昭和61年4月25日",
+    "最判平成15年2月14日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2022-menjo",
+   "univ": "同志社",
+   "year": 2022,
+   "term": "履修免除",
+   "course": "履修免除試験",
+   "mondai": "http://doshisha-law.kir.jp/stg/wp-content/uploads/2022/04/2022_mondai_keisohou3.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2022_kaisetsu_keisohou3.pdf",
+   "kaitou": "http://doshisha-law.kir.jp/stg/wp-content/uploads/2022/04/2022_keisohout3.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "http",
+    "kaisetsu": null,
+    "kaitou": "http"
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "おとり捜査の違法の根拠と判断基準",
+    "おとり捜査の定義",
+    "伝聞法則の趣旨（320条1項）",
+    "伝聞証拠の定義と当てはめ"
+   ],
+   "articles": [
+    197,
+    320
+   ],
+   "hanrei": [
+    "最決平成16年7月12日",
+    "最決昭和51年3月16日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2022-honshi",
+   "univ": "慶應",
+   "year": 2022,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/deb89638c779908330f14e57cac06dff52e30cbafaade6ca6a47d7175bc114bf",
+   "kaisetsu": "https://www.keio.ac.jp/files/872119430852e7b5ed47c5e9f58d7230ec6dc480d6843308606a46ea21c5dbd4",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（商法・民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証"
+   ],
+   "topics": [
+    "令状主義の趣旨と機能（憲法35条・218条1項）",
+    "「正当な理由」と捜索の範囲（222条）",
+    "場所に対する捜索令状の効力が及ぶ範囲",
+    "捜索場所に居合わせた者が物を隠匿した場合",
+    "「必要な処分」（111条）"
+   ],
+   "articles": [
+    99,
+    102,
+    107,
+    111,
+    197,
+    218,
+    219,
+    222
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2021-zenki",
+   "univ": "同志社",
+   "year": 2021,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2021_mondai_keijisosyo.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2021_kaisetsu_keijisosyo.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2021_kaitou_keijisosyoho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "捜査/捜査の原則・任意捜査",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "宅配荷物に対するエックス線検査の適法性",
+    "強制処分の意義（197条1項但書）",
+    "実況見分調書の証拠能力（321条3項）",
+    "立会人の指示説明部分の証拠能力"
+   ],
+   "articles": [
+    197,
+    218,
+    320,
+    321,
+    326
+   ],
+   "hanrei": [
+    "最決昭和51年3月16日",
+    "最決平成21年9月28日",
+    "高判平成28年8月23日",
+    "最判昭和35年9月8日",
+    "最判昭和36年5月26日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2021-koki",
+   "univ": "同志社",
+   "year": 2021,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2021_mondai_keijisoshohou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2021_kaisetsu_keisohou2.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2021_keisohout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/弁護人依頼権・接見交通",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "接見交通権（39条1項）と憲法34条",
+    "接見指定の要件（39条3項）",
+    "伝聞証拠の意義（320条1項）",
+    "現在の心理状態の供述",
+    "324条2項による321条1項3号の準用"
+   ],
+   "articles": [
+    39,
+    320,
+    321,
+    324
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2021-menjo",
+   "univ": "同志社",
+   "year": 2021,
+   "term": "履修免除",
+   "course": "履修免除試験",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2021_mondai_keijisoshohou3.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2021_kaisetsu_keisohou3.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2021_keijisohout3.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "公訴/訴因と訴因変更"
+   ],
+   "topics": [
+    "逮捕に伴う無令状捜索の根拠・趣旨",
+    "「逮捕する場合において」「逮捕の現場で」（220条1項2号・3項）",
+    "逮捕着手前・本人不在での捜索の可否",
+    "訴因の特定の趣旨（256条3項）",
+    "共謀の記載と訴因の特定"
+   ],
+   "articles": [
+    220,
+    256
+   ],
+   "hanrei": [
+    "最大判昭和36年6月7日",
+    "最決平成26年3月17日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2021-honshi",
+   "univ": "慶應",
+   "year": 2021,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/c66652eede3ec281dd670d09674775015dc2aed139114c39ece56d9a6274c1bb",
+   "kaisetsu": "https://www.keio.ac.jp/files/4f12965d32b9f940839fe029e28338874f5608034b292305f4b84d5f932f3e14",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（科目名の記載なし）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "証拠/自白法則・補強法則",
+    "公訴/訴因と訴因変更"
+   ],
+   "topics": [
+    "自白の補強法則の根拠（憲法38条3項・319条2項3項）",
+    "補強法則の趣旨（誤判の防止・自白偏重の防止）",
+    "補強の範囲",
+    "訴因変更の制度が機能する場面（312条）"
+   ],
+   "articles": [
+    312,
+    319
+   ],
+   "hanrei": [
+    "最判昭和29年9月7日",
+    "最判昭和29年5月14日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2021-tsuishi",
+   "univ": "慶應",
+   "year": 2021,
+   "term": "追試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/1513234f1c4b1e96b101761b827d106455d4502be7cb5d0a6792f87e7c592767",
+   "kaisetsu": "https://www.keio.ac.jp/files/fb768707b81713aa90505d34e378bf515c76c03248cc03a20bb505960e6f9788",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "証拠/違法収集証拠の排除"
+   ],
+   "topics": [
+    "行政警察活動と捜査の区別",
+    "職務質問に付随する所持品検査の適法性",
+    "所持品検査の法的根拠（侵害留保原理）",
+    "違法収集証拠排除法則"
+   ],
+   "articles": [
+    218
+   ],
+   "hanrei": [
+    "最決平成7年5月30日",
+    "最判昭和53年6月20日",
+    "最判昭和53年9月7日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2020-zenki",
+   "univ": "同志社",
+   "year": 2020,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2020_mondai_keijisosyo.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2020_kaisetsu_keiso.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2020_kaitou_keijisosyoho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "再逮捕・再勾留禁止の原則の趣旨と例外",
+    "同一被疑事実による再逮捕の適法性（199条3項・203条）",
+    "伝聞法則の趣旨とその不適用（非伝聞）"
+   ],
+   "articles": [
+    199,
+    203,
+    320,
+    322,
+    326
+   ],
+   "hanrei": [
+    "最決平成17年9月27日",
+    "地決昭和47年4月4日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2020-koki",
+   "univ": "同志社",
+   "year": 2020,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2020_mondai_keijisoshohou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2020_kaisetsu_keisohou2.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2020_keisohout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2020-menjo",
+   "univ": "同志社",
+   "year": 2020,
+   "term": "履修免除",
+   "course": "履修免除試験",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2020_mondai_keijisoshohou3.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2020_kaisetsu_keisohou3.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2020_keijisohout3.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "kei-2020-honshi",
+   "univ": "慶應",
+   "year": 2020,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/8fb3a7e46a2fbddcc035cbc1c1a4de7fde3e71e6d202a793c85bd980950a6e36",
+   "kaisetsu": "https://www.keio.ac.jp/files/c71a6c58a861c139aa6f9540eed0aae237bd68f41f433ad3e0cce51d357e19e3",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "証拠/伝聞法則とその例外",
+    "証拠/自白法則・補強法則"
+   ],
+   "topics": [
+    "伝聞法則（320条1項）",
+    "被告人の供述録取書（322条1項）",
+    "同意書面（326条1項）",
+    "自白の任意性（319条1項）"
+   ],
+   "articles": [
+    319,
+    320,
+    321,
+    322,
+    326
+   ],
+   "hanrei": [
+    "最大判昭和45年11月25日",
+    "最判昭和41年7月1日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2019-zenki",
+   "univ": "同志社",
+   "year": 2019,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/mondaikeijisosyou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/kaikeijisosyou.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/yoshikeijisoshouhou.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "証拠/違法収集証拠の排除",
+    "証拠/自白法則・補強法則"
+   ],
+   "topics": [
+    "職務質問における有形力行使の限界（警職法2条1項）",
+    "違法収集証拠排除法則の根拠と要件",
+    "自白の補強法則（319条2項）"
+   ],
+   "articles": [
+    197,
+    218,
+    220,
+    318,
+    319
+   ],
+   "hanrei": [
+    "高判昭和49年9月30日",
+    "最大判昭和23年7月29日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2019-koki",
+   "univ": "同志社",
+   "year": 2019,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2019_keijisosyou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2019_keijisosyouk2.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2019_keijisohout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "令状記載の「差し押えるべき物」の範囲（品目該当性・被疑事実との関連性）",
+    "場所に対する捜索令状と居合わせた者の身体の捜索",
+    "伝聞法則（320条1項）と伝聞例外（322条・326条）"
+   ],
+   "articles": [
+    320,
+    322,
+    326
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2019-menjo",
+   "univ": "同志社",
+   "year": 2019,
+   "term": "履修免除",
+   "course": "履修免除試験",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2019_keijisosyou3.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2019_keijisosyouk3.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2019_keijisohout3.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "捜査/捜索・押収・検証",
+    "証拠/証拠裁判主義・自由心証"
+   ],
+   "topics": [
+    "現行犯逮捕（213条・212条）の趣旨と要件",
+    "逮捕に伴う捜索（220条1項2号・3項・222条1項・99条1項・102条1項）",
+    "証拠裁判主義（317条）"
+   ],
+   "articles": [
+    99,
+    102,
+    212,
+    213,
+    220,
+    222,
+    317
+   ],
+   "hanrei": [
+    "最判平成24年9月7日",
+    "地決昭和44年11月5日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2019-zenki",
+   "univ": "立命館",
+   "year": 2019,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-19z_option.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2019-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。「訴訟法オプション試験（刑事訴訟法）」の節を参照",
+   "mondaiNote": "訴訟法オプション試験（民事訴訟法・刑事訴訟法の合冊）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "捜査/捜査の原則・任意捜査"
+   ],
+   "topics": [
+    "一般探索的令状が禁止される実質的根拠（憲法35条）",
+    "逮捕現場での無令状捜索・差押えが許される実質的根拠（合理説・相当説）",
+    "無承諾の写真撮影の適法性",
+    "強制処分の一般的定義",
+    "任意処分と比例原則（必要性・緊急性・相当性）"
+   ],
+   "articles": [],
+   "hanrei": [
+    "最大判昭和44年12月24日",
+    "最決平成20年4月15日",
+    "最決昭和51年3月16日",
+    "最大判平成29年3月15日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2019-chuki",
+   "univ": "立命館",
+   "year": 2019,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-19c_option.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2019-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。「訴訟法オプション試験（刑事訴訟法）」の節を参照",
+   "mondaiNote": "訴訟法オプション試験（民事訴訟法・刑事訴訟法の合冊）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "捜査/捜索・押収・検証"
+   ],
+   "topics": [
+    "逮捕後にとるべき措置（203条）",
+    "弁護人選任権・国選弁護人選任請求権の告知",
+    "逮捕状の緊急執行（201条2項・73条3項）",
+    "逮捕に伴う無令状捜索・差押えが許される理由（緊急処分説・合理説）",
+    "許容される場所的・時間的・物的範囲",
+    "緊急逮捕（210条）"
+   ],
+   "articles": [
+    73,
+    201,
+    203,
+    210,
+    220
+   ],
+   "hanrei": [
+    "最判昭和36年6月7日",
+    "高判昭和44年6月20日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2019-koki",
+   "univ": "立命館",
+   "year": 2019,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-19k_option.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2019-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。「訴訟法オプション試験（刑事訴訟法）」の節を参照",
+   "mondaiNote": "訴訟法オプション試験（民事訴訟法・刑事訴訟法の合冊）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "公判/公判手続・訴訟指揮",
+    "捜査/捜索・押収・検証"
+   ],
+   "topics": [
+    "捜査比例の原則（必要性・相当性／197条1項）",
+    "予断排除の原則（起訴状一本主義256条6項・冒頭陳述の制限296条）",
+    "捜索・差押え現場の写真撮影の適法性",
+    "捜索・差押えに附随する「必要な処分」（111条）",
+    "独立の検証としての写真撮影"
+   ],
+   "articles": [
+    111,
+    197,
+    220,
+    222,
+    256,
+    296
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kei-2019-honshi",
+   "univ": "慶應",
+   "year": 2019,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/bbf598ef23041b554951517ca9d22b5e3414abe048690bf0a80eec54c59eca83",
+   "kaisetsu": "https://www.keio.ac.jp/files/8f67afa1006f91473cd8e4f952e59f99b7b451703afa4d2d261f04791c8d353b",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "捜査/捜索・押収・検証"
+   ],
+   "topics": [
+    "逮捕に伴う捜索・差押え（220条1項1号2号・3項）",
+    "「逮捕の現場」の意義",
+    "逮捕状の緊急執行（201条2項・73条3項）",
+    "令状主義（218条1項）",
+    "「必要な処分」（111条・222条1項）"
+   ],
+   "articles": [
+    73,
+    111,
+    199,
+    201,
+    218,
+    220,
+    222
+   ],
+   "hanrei": [
+    "最大判昭和36年6月7日",
+    "最判平成15年2月14日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2018-zenki",
+   "univ": "同志社",
+   "year": 2018,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2018_keijisoshouhou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2018_keijisoshouhou_k.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2018_keijisoshout.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "公道における写真・ビデオ秘匿撮影の適法性",
+    "強制捜査と任意捜査の区別",
+    "現場写真の証拠能力（非供述証拠）"
+   ],
+   "articles": [
+    197,
+    321
+   ],
+   "hanrei": [
+    "最大判昭和44年12月24日",
+    "最決平成20年4月15日",
+    "最決昭和51年3月16日",
+    "最大判平成29年3月15日",
+    "最決昭和59年12月21日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2018-koki",
+   "univ": "同志社",
+   "year": 2018,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2018_keijisosyou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2018_keijisosyouk2.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2018_keijisohout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "証拠/自白法則・補強法則"
+   ],
+   "topics": [
+    "職務質問の要件（警職法2条1項）",
+    "所持品検査の可否と限界",
+    "自白法則の趣旨（319条1項）",
+    "偽計による自白の任意性（虚偽排除説）"
+   ],
+   "articles": [
+    319
+   ],
+   "hanrei": [
+    "最判昭和53年6月20日",
+    "最大判昭和45年11月25日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2018-menjo",
+   "univ": "同志社",
+   "year": 2018,
+   "term": "履修免除",
+   "course": "履修免除試験",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2018_keijisosyou3.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2018_keijisosyouk3.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2018_keijisohout3.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "rit-2018-zenki",
+   "univ": "立命館",
+   "year": 2018,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-18z_option.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2018-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。「訴訟法オプション試験（刑事訴訟法）」の節を参照",
+   "mondaiNote": "訴訟法オプション試験（民事訴訟法・刑事訴訟法の合冊）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/弁護人依頼権・接見交通",
+    "捜査/逮捕・勾留",
+    "公訴/訴因と訴因変更"
+   ],
+   "topics": [
+    "接見を制限できる場合の判例要件（捜査の中断による顕著な支障）",
+    "逮捕状の緊急執行（201条2項・73条3項）",
+    "訴因の明示・特定の趣旨（256条3項）",
+    "訴因変更の要否の基準（審判対象の画定／防御にとって重要な事実）",
+    "不意打ち・不利益がない場合の例外",
+    "逮捕に伴う無令状捜索（220条）"
+   ],
+   "articles": [
+    73,
+    201,
+    220,
+    256
+   ],
+   "hanrei": [
+    "最決平成13年4月11日",
+    "最判昭和37年11月28日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2018-chuki",
+   "univ": "立命館",
+   "year": 2018,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-18c_option.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2018-c2.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。「訴訟法オプション試験（刑事訴訟法）」の節を参照",
+   "mondaiNote": "訴訟法オプション試験（民事訴訟法・刑事訴訟法の合冊）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "公訴/訴因と訴因変更",
+    "捜査/捜査の原則・任意捜査",
+    "裁判・上訴/抗告・準抗告"
+   ],
+   "topics": [
+    "違法逮捕にもとづく勾留請求の却下",
+    "逮捕前置主義",
+    "準抗告に代わる事後審査の保障",
+    "訴因変更命令義務が生ずる場合",
+    "携帯電話の位置情報の公務所照会（197条2項）",
+    "GPS端末による位置情報の取得と強制処分の意義"
+   ],
+   "articles": [
+    197
+   ],
+   "hanrei": [
+    "最大判平成29年3月15日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2018-koki",
+   "univ": "立命館",
+   "year": 2018,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-18k_option.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2018-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。「訴訟法オプション試験（刑事訴訟法）」の節を参照",
+   "mondaiNote": "訴訟法オプション試験（民事訴訟法・刑事訴訟法の合冊）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "捜査/弁護人依頼権・接見交通"
+   ],
+   "topics": [
+    "所持品検査が許される理由（職務質問付随行為説・警職法2条1項）",
+    "質問内容との密接関連性",
+    "秘密交通権（39条1項）と憲法34条",
+    "被疑者取調べでの接見内容の聴取と秘密交通権の侵害",
+    "接見交通権と捜査権限の調整"
+   ],
+   "articles": [
+    39
+   ],
+   "hanrei": [
+    "最判昭和53年6月20日",
+    "最決平成21年9月28日",
+    "高判平成23年7月1日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2018-honshi",
+   "univ": "慶應",
+   "year": 2018,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/185853c3564d5c0d740536d33678c3688c08998a31b10b6f85e820ab3405bcbd",
+   "kaisetsu": "https://www.keio.ac.jp/files/7342658feab6980cfebfe65de494a43652a77b7472735a2d4dc63681aed08797",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "証拠/伝聞法則とその例外",
+    "捜査/捜索・押収・検証"
+   ],
+   "topics": [
+    "被疑者勾留から被告人勾留への切替え（208条1項の反対解釈・60条2項）",
+    "逮捕前置主義と事件単位説",
+    "検察官面前調書（321条1項2号後段）の要件",
+    "領置（221条）と押収",
+    "同意書面（326条）"
+   ],
+   "articles": [
+    60,
+    111,
+    208,
+    221,
+    222,
+    321,
+    326
+   ],
+   "hanrei": [
+    "最大判平成29年3月15日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2017-zenki",
+   "univ": "同志社",
+   "year": 2017,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2017_keijisosyou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2017_keijisosyouk.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留",
+    "証拠/自白法則・補強法則"
+   ],
+   "topics": [
+    "現行犯逮捕の制度趣旨（憲法33条・213条）",
+    "「現に罪を行い終つた者」（212条1項）",
+    "準現行犯人の要件（212条2項3号・4号）",
+    "約束による自白の証拠能力（319条1項・虚偽排除説）"
+   ],
+   "articles": [
+    212,
+    213,
+    319
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2017-koki",
+   "univ": "同志社",
+   "year": 2017,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2017_keijisosyou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2017_keijisosyouk2.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/弁護人依頼権・接見交通",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "接見指定の要件「捜査のため必要があるとき」（39条3項本文）",
+    "「被疑者が防御の準備をする権利を不当に制限するもの」（39条3項但書）",
+    "初回接見の重要性",
+    "伝聞証拠の証拠能力（320条・321条・324条・326条）"
+   ],
+   "articles": [
+    39,
+    320,
+    321,
+    324,
+    326
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2017-menjo",
+   "univ": "同志社",
+   "year": 2017,
+   "term": "履修免除",
+   "course": "履修免除試験",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2017_keijisosyou3.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2017_keijisosyouk3.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "捜索許可状の執行方法と「必要な処分」（111条・222条1項）",
+    "場所に対する捜索許可状の効力が及ぶ範囲",
+    "捜索場所に居合わせた者の身体の捜索・差押え",
+    "伝聞と非伝聞の区別",
+    "要証事実の捉え方"
+   ],
+   "articles": [
+    111,
+    222,
+    320,
+    321,
+    324,
+    326
+   ],
+   "hanrei": [
+    "最決平成14年10月4日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2017-honshi",
+   "univ": "慶應",
+   "year": 2017,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/0f5a1dd7cb9badff77089abf6cbf281fea616a8eb705633051aa107f8f06b046",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑事訴訟法の節を参照",
+   "mondaiNote": "合冊の試験問題（民事訴訟法・刑事訴訟法）。刑事訴訟法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [
+    "捜査/逮捕・勾留"
+   ],
+   "topics": [
+    "現行犯逮捕の適法性（212条・213条）",
+    "準現行犯逮捕の要件"
+   ],
+   "articles": [
+    212,
+    213
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2016-zenki",
+   "univ": "同志社",
+   "year": 2016,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2016_keijisosyou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2016_keijisosyouk.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "証拠/違法収集証拠の排除"
+   ],
+   "topics": [
+    "逮捕に伴う無令状捜索・差押えが許される根拠",
+    "「逮捕する場合において」「逮捕の現場で」（220条1項柱書・2号）",
+    "差押目的物と逮捕被疑事実との関連性",
+    "違法収集証拠排除法則（昭和53年判決の要件）"
+   ],
+   "articles": [
+    220
+   ],
+   "hanrei": [
+    "高判昭和44年6月20日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2016-koki",
+   "univ": "同志社",
+   "year": 2016,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2016_keijisosyou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2016_keijisosyouk2.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査"
+   ],
+   "topics": [
+    "職務質問の要件（警職法2条1項）",
+    "職務質問のための停止に際する有形力行使の可否と限界",
+    "所持品検査の法的根拠と適否の判断枠組み"
+   ],
+   "articles": [],
+   "hanrei": [
+    "最判昭和53年6月20日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2010-zenki",
+   "univ": "同志社",
+   "year": 2010,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2010_keijisosyou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2009-zenki",
+   "univ": "同志社",
+   "year": 2009,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2009_keijisosyou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2008-zenki",
+   "univ": "同志社",
+   "year": 2008,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2008_keijisosyou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2007-zenki",
+   "univ": "同志社",
+   "year": 2007,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2007_keijisosyou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2006-zenki",
+   "univ": "同志社",
+   "year": 2006,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2006_keijisosyou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2005-zenki",
+   "univ": "同志社",
+   "year": 2005,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2005_keijisosyou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  }
+ ]
+}
