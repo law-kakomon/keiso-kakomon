@@ -42,6 +42,6 @@ python3 tools/build_data.py      # data/kakomon.json と index.html への埋め
 - [民法過去問帳](https://law-kakomon.github.io/minpo-kakomon/)
 - [民事訴訟法過去問帳](https://law-kakomon.github.io/minso-kakomon/)
 - [会社法過去問帳](https://law-kakomon.github.io/kaisha-kakomon/)
+- [憲法過去問帳](https://law-kakomon.github.io/kenpo-kakomon/)
 - [行政法過去問帳](https://law-kakomon.github.io/gyosei-kakomon/)
 - [刑法過去問帳](https://law-kakomon.github.io/keiho-kakomon/)
-- [憲法過去問帳](https://law-kakomon.github.io/kenpo-kakomon/)
