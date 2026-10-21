@@ -1,6 +1,7 @@
 {
  "generated": true,
  "sources": {
+  "京大": "https://lawschool.law.kyoto-u.ac.jp/nyushi/mondai/",
   "同志社": "https://law-school.doshisha.ac.jp/entrance_ex/question/",
   "立命館": "https://www.ritsumei.ac.jp/lawschool/admission/past.html/",
   "慶應": "https://www.ls.keio.ac.jp/nyushi/examination.html",
@@ -10,22 +11,22 @@
  "taxonomy": [
   {
    "name": "捜査",
-   "count": 57,
+   "count": 62,
    "subs": [
     {
      "name": "捜査の原則・任意捜査",
      "key": "捜査/捜査の原則・任意捜査",
-     "count": 18
+     "count": 20
     },
     {
      "name": "逮捕・勾留",
      "key": "捜査/逮捕・勾留",
-     "count": 13
+     "count": 14
     },
     {
      "name": "捜索・押収・検証",
      "key": "捜査/捜索・押収・検証",
-     "count": 17
+     "count": 19
     },
     {
      "name": "取調べ・供述の採取",
@@ -41,7 +42,7 @@
   },
   {
    "name": "公訴",
-   "count": 12,
+   "count": 13,
    "subs": [
     {
      "name": "公訴提起・訴追裁量",
@@ -51,7 +52,7 @@
     {
      "name": "訴因と訴因変更",
      "key": "公訴/訴因と訴因変更",
-     "count": 11
+     "count": 12
     },
     {
      "name": "訴訟条件・公訴時効",
@@ -83,7 +84,7 @@
   },
   {
    "name": "証拠",
-   "count": 30,
+   "count": 31,
    "subs": [
     {
      "name": "証拠裁判主義・自由心証",
@@ -108,7 +109,7 @@
     {
      "name": "伝聞法則とその例外",
      "key": "証拠/伝聞法則とその例外",
-     "count": 13
+     "count": 14
     }
    ]
   },
@@ -212,6 +213,41 @@
     "最判平成18年11月7日",
     "最決昭和51年3月16日"
    ],
+   "classified": true
+  },
+  {
+   "id": "kyo-2026-ronjutsu",
+   "univ": "京大",
+   "year": 2026,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2026/03/mondai_8keiso.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2026/03/shushikijyun_8keiso.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜索・押収・検証",
+    "捜査/捜査の原則・任意捜査"
+   ],
+   "topics": [
+    "意識不明の者からの呼気・血液の採取",
+    "身体に由来する物質を取得するための要件と手続",
+    "比例原則・強制処分法定主義・令状主義の意義と射程",
+    "現行法上の各種証拠収集手続の異同"
+   ],
+   "articles": [],
+   "hanrei": [],
    "classified": true
   },
   {
@@ -394,6 +430,40 @@
    "classified": true
   },
   {
+   "id": "kyo-2025-ronjutsu",
+   "univ": "京大",
+   "year": 2025,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2025/01/mondai_7keiso.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2025/01/shushikijyun_7keiso.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "証拠/伝聞法則とその例外"
+   ],
+   "topics": [
+    "ボイスレコーダーに録音された供述の証拠能力",
+    "立証趣旨を踏まえた推認の筋道",
+    "伝聞法則の適用の有無",
+    "伝聞例外規定の解釈・適用"
+   ],
+   "articles": [],
+   "hanrei": [],
+   "classified": true
+  },
+  {
    "id": "dos-2025-zenki",
    "univ": "同志社",
    "year": 2025,
@@ -555,6 +625,39 @@
     "最決平成14年10月4日",
     "最決平成19年2月8日"
    ],
+   "classified": true
+  },
+  {
+   "id": "kyo-2024-ronjutsu",
+   "univ": "京大",
+   "year": 2024,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2024/01/mondai_6keiso.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2024/01/shushikijyun_6keiso.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "公訴/訴因と訴因変更"
+   ],
+   "topics": [
+    "起訴状における訴因の明示・特定の有無の判断基準",
+    "刑事訴訟における訴因の機能",
+    "訴因の明示・特定に関する現行法の規律内容"
+   ],
+   "articles": [],
+   "hanrei": [],
    "classified": true
   },
   {
@@ -787,6 +890,42 @@
    "classified": true
   },
   {
+   "id": "kyo-2023-ronjutsu",
+   "univ": "京大",
+   "year": 2023,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2023/01/mondai_5keiso.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2023/01/shushikijyun_5keiso.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/捜査の原則・任意捜査",
+    "捜査/捜索・押収・検証"
+   ],
+   "topics": [
+    "偽計を用いた捜査の強制処分該当性",
+    "任意処分の適否の判断基準",
+    "領置の可否の判断基準",
+    "令状に基づく捜索差押えに必要な処分の意義と適否",
+    "令状呈示の時期"
+   ],
+   "articles": [],
+   "hanrei": [],
+   "classified": true
+  },
+  {
    "id": "dos-2023-zenki",
    "univ": "同志社",
    "year": 2023,
@@ -971,6 +1110,39 @@
     "最決平成26年3月17日",
     "最判昭和30年12月9日"
    ],
+   "classified": true
+  },
+  {
+   "id": "kyo-2022-ronjutsu",
+   "univ": "京大",
+   "year": 2022,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2022/01/mondai_4keiso.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2022/01/shushikijun_4keiso.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "捜査/逮捕・勾留"
+   ],
+   "topics": [
+    "一罪一逮捕一勾留の原則の意義",
+    "同原則の適用範囲と例外の要件",
+    "保釈の取消しの判断における事件単位原則の適用"
+   ],
+   "articles": [],
+   "hanrei": [],
    "classified": true
   },
   {
